@@ -1,2 +1,0 @@
-# teskode
-Ngetes kode
